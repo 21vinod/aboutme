@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aboutme/static/css/main.29ae1bbd.css",
-    "main.js": "/aboutme/static/js/main.6b7a617d.js",
+    "main.css": "/aboutme/static/css/main.e1454dff.css",
+    "main.js": "/aboutme/static/js/main.39fd12e3.js",
     "static/media/Vinod_Mitta_Resume_Sr_QA.pdf": "/aboutme/static/media/Vinod_Mitta_Resume_Sr_QA.b5090fcb4e14add7e3de.pdf",
     "static/media/profile.jpg": "/aboutme/static/media/profile.98b7fd9bbe99341c145f.jpg",
     "index.html": "/aboutme/index.html",
-    "main.29ae1bbd.css.map": "/aboutme/static/css/main.29ae1bbd.css.map",
-    "main.6b7a617d.js.map": "/aboutme/static/js/main.6b7a617d.js.map"
+    "main.e1454dff.css.map": "/aboutme/static/css/main.e1454dff.css.map",
+    "main.39fd12e3.js.map": "/aboutme/static/js/main.39fd12e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.29ae1bbd.css",
-    "static/js/main.6b7a617d.js"
+    "static/css/main.e1454dff.css",
+    "static/js/main.39fd12e3.js"
   ]
 }
